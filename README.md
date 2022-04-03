@@ -3,7 +3,7 @@
 Am a senior Full-Stack & Blockchain developer who likes to work with JavaScript/Typescript (React, Angular, Vue.js, TensorFlow.js, Node, Nest), Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), Python among others.
 Since I've graduated the university, I’ve joined several companies and dev teams to build web and defi apps.
 
-<img align="right" alt="GIF" src="https://github.com/devgod611/devgod611/blob/main/src/busyprogrammer.gif?raw=true" width="50%" height="auto" />
+<img align="right" alt="GIF" src="https://github.com/devgod611/devgod611/blob/main/busyprogrammer.gif" width="50%" height="auto" />
 
 :small_blue_diamond: :muscle: As a professional web developer, have over 6 years of experience in the web field.
 
