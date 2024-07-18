@@ -11,7 +11,7 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 
 :small_blue_diamond: 💬 Ask me about web and blockchain development
 
-:small_blue_diamond: 📫 How to reach me: devgod611@outlook.com
+:small_blue_diamond: 📫 How to reach me: devgod611@gmail.com
 
 ### Languages and Tools:
 
